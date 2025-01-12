@@ -1,10 +1,15 @@
 # Chaining Agents
 
-A lightweight implementation showing how to build AI agents by adapting patterns from Anthropic's cookbook to work with smaller, locally-running language models.
+A lightweight implementation showing how to build AI agents by adapting patterns from Anthropic's [cookbook](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents)
+to work with smaller, locally-running language models.
+
+You can read more about the code on [medium](https://medium.com/@romillyc/building-simple-ai-agents-8bde4da58044?sk=441b7050f2966a45cf5656a1ce38101a).
+That's a _friend link_, so it's free for you to read even if you're not a medium member.
 
 ## Overview
 
-This project demonstrates how to create simple but effective AI agents using local LLMs. It includes a complete implementation of:
+The project demonstrates how to create simple but effective AI agents using local LLMs.
+It includes a complete implementation of:
 - A flexible Tool system for function specifications
 - An LLM wrapper for model interaction
 - A simple chaining mechanism for sequential operations
